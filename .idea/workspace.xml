@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ad10836-fae0-4a25-bd7d-404b807a2dfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warsztat_2_oop_sql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/UserDao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iJzssj1LxOL5bYh6wU1LgF0GmU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entity.Main01" />
+      <module name="Warsztat_2_oop_sql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ad10836-fae0-4a25-bd7d-404b807a2dfe" name="Default Changelist" comment="" />
+      <created>1601640694766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601640694766</updated>
+      <workItem from="1601640698535" duration="593000" />
+      <workItem from="1601641313618" duration="281000" />
+      <workItem from="1601641631973" duration="7418000" />
+      <workItem from="1601649227112" duration="2884000" />
+      <workItem from="1601652259686" duration="1900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1035" y="191" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601641558440">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="1035" y="191" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1601641558440" />
+    <state x="288" y="248" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1601644247935">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="288" y="248" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1005@0.27.1920.1005" timestamp="1601644247935" />
+    <state x="953" y="262" width="426" height="578" key="FileChooserDialogImpl" timestamp="1601643048771">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="953" y="262" width="426" height="578" key="FileChooserDialogImpl/0.27.1920.1005@0.27.1920.1005" timestamp="1601643048771" />
+    <state width="1874" height="223" key="GridCell.Tab.0.bottom" timestamp="1601654160096">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="223" key="GridCell.Tab.0.bottom/0.27.1920.1005@0.27.1920.1005" timestamp="1601654160096" />
+    <state width="1874" height="223" key="GridCell.Tab.0.center" timestamp="1601654160095">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="223" key="GridCell.Tab.0.center/0.27.1920.1005@0.27.1920.1005" timestamp="1601654160095" />
+    <state width="1874" height="223" key="GridCell.Tab.0.left" timestamp="1601654160095">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="223" key="GridCell.Tab.0.left/0.27.1920.1005@0.27.1920.1005" timestamp="1601654160095" />
+    <state width="1874" height="223" key="GridCell.Tab.0.right" timestamp="1601654160095">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="223" key="GridCell.Tab.0.right/0.27.1920.1005@0.27.1920.1005" timestamp="1601654160095" />
+    <state width="1874" height="321" key="GridCell.Tab.1.bottom" timestamp="1601649188412">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="321" key="GridCell.Tab.1.bottom/0.27.1920.1005@0.27.1920.1005" timestamp="1601649188412" />
+    <state width="1874" height="321" key="GridCell.Tab.1.center" timestamp="1601649188412">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="321" key="GridCell.Tab.1.center/0.27.1920.1005@0.27.1920.1005" timestamp="1601649188412" />
+    <state width="1874" height="321" key="GridCell.Tab.1.left" timestamp="1601649188411">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="321" key="GridCell.Tab.1.left/0.27.1920.1005@0.27.1920.1005" timestamp="1601649188411" />
+    <state width="1874" height="321" key="GridCell.Tab.1.right" timestamp="1601649188412">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1874" height="321" key="GridCell.Tab.1.right/0.27.1920.1005@0.27.1920.1005" timestamp="1601649188412" />
+    <state x="734" y="293" width="861" height="516" key="NewModule_or_Project.wizard" timestamp="1601643051250">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="734" y="293" width="861" height="516" key="NewModule_or_Project.wizard/0.27.1920.1005@0.27.1920.1005" timestamp="1601643051250" />
+  </component>
+</project>
